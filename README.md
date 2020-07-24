@@ -1,1 +1,1 @@
-![image](https://github.com/KhizerRehan/khizerrehan/blob/master/khizerrehan/js.gif)
+![image](https://github.com/KhizerRehan/khizerrehan/blob/master/assets/js.gif)
