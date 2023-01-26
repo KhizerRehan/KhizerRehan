@@ -13,9 +13,12 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=khizerrehan&count_private=true)
 
+### Active Visitors
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=khizerrehan)
+
+
 ### Where to find me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khizer-rehan-957989ab/) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/KhizerDev)
-
 ![image](https://github.com/KhizerRehan/khizerrehan/blob/master/assets/frontend.gif)
