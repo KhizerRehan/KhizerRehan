@@ -1,4 +1,4 @@
-;[=<h1 align="center">Hi 👋, I'm Khizer Rehan</h1>
+<h1 align="center">Hi 👋, I'm Khizer Rehan</h1>
 <h3 align="center">Frontend Engineer from Pakistan</h3>
 
 - 🔭 I’m currently working on **Greydom**
@@ -27,3 +27,11 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khizer-rehan-957989ab/) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/KhizerDev)
+
+
+### Open Source Contributions 
+
+- [Kubermatic](https://github.com/kubermatic/dashboard/pulls?q=is%3Apr+author%3AKhizerRehan+is%3Aclosed)
+- [Teradata](https://github.com/Teradata/covalent/pulls?q=is%3Apr+author%3AKhizerRehan+is%3Aclosed)
+- [ngx-lib](https://github.com/eneajaho/ngx-libs/pulls?q=is%3Apr+author%3AKhizerRehan+is%3Aclosed)
+- [docs](https://github.com/Schepp/HTTP-headers/pulls?q=is%3Apr+is%3Aclosed+author%3AKhizerRehan)
