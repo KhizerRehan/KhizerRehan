@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khizer Rehan</h1>
 <h3 align="center">Frontend Engineer from Pakistan</h3>
 
-- 🔭 I’m currently working on **Greydom**
+- 🔭 I’m currently working with **Greydom**
 
 - 📫 How to reach me **khizerrehan92@gmail.com**
 
